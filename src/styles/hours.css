@@ -1,0 +1,15 @@
+.wi {
+  margin: 10px;
+  font-size: 2rem;
+}
+
+.time {
+  display: inline-block;
+  width: 5rem;
+  text-align: left;
+}
+
+.temp {
+  display: inline-block;
+  width: 3rem;
+}

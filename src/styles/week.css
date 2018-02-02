@@ -1,0 +1,22 @@
+.wi {
+  margin: 10px;
+  font-size: 2rem;
+}
+
+.week-day {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  border: 2px;
+  border-radius: 5px;
+}
+
+.temp-low {
+  padding-left: 5px;
+  color: darkgray;
+}
+
+.temp-high {
+  padding-left: 5px;
+  padding-right: 5px;
+}
