@@ -1,3 +1,23 @@
+## Studio Weather App (with icons)
+
+A demo of a weather app using React and React Router.
+
+The home page displays a fake five-day forecast. Clicking on one of the days will navigate to a page with an hourly forecast for that day (example: /monday).
+
+Uses weather icons by Erik Flowers (http://erikflowers.github.io/weather-icons).
+
+### Project Structure:
+
+All changes were made in the src folder after running create-react-app.
+
+src/components contains most of the components.
+
+src/styles contains the CSS files for the components.
+
+src/font contains the weather icons webfont.
+
+## Create React App README
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
